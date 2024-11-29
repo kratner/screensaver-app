@@ -37,9 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ---
 
-Live app on https://kratner.github.com/screensaver-app.git
-
----
+## Live app on https://kratner.github.io/screensaver-app/
 
 Clone repository and run
 `npm install`
